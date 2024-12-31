@@ -28,6 +28,11 @@ html {
   color: #000;
 }
 
+.topnav a.active {
+  background-color: #ffe066;
+  color: black;
+}
+
 .pimg1,
 .pimg2,
 .pimg3 {
