@@ -44,11 +44,6 @@ html {
   background-repeat: no-repeat;
 }
 
-.section {
-  text-align: center;
-  padding: 50px 80px;
-}
-
 #mine {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -56,7 +51,6 @@ html {
   font-style: italic;
   font-weight: bolder;
   text-align: center;
-  color: pink;
   padding-top: 0px;
   padding-bottom: 0px;
 }
@@ -75,4 +69,22 @@ html {
   font-weight: bold;
   font-family: "Courier New", Courier, monospace;
   color: greenyellow;
+}
+
+.dark{
+  background-color: pink;
+  color: green;
+}
+
+#light{
+  
+}
+
+#them{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  text-align:center;
+  font-size: larger;
+  font-style: oblique;
+  color: blue;
 }
